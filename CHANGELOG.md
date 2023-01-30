@@ -1,5 +1,12 @@
 # Changelog
 
+## 17.12.0
+
+### Minor Changes
+
+- [#904](https://github.com/primer/octicons/pull/904) [`ad0eb569`](https://github.com/primer/octicons/commit/ad0eb5699661138ee04baf8938fbb6f291f9f060) Thanks [@CameronFoxly](https://github.com/CameronFoxly)! - Edit: Upload and download icons
+  Add: Move to start, end, top, and bottom icons
+
 ## 17.11.1
 
 ### Patch Changes
